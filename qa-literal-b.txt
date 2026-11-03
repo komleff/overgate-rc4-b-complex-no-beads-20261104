@@ -1,0 +1,2 @@
+Literal fresh B install: source 2343df83a3a26ae83bc66d4009dd67a913eeea4e, mode auto, --no-beads (BD helper skipped, no .beads).
+Case literal-b-complex-no-beads; apply + og-init-memory-bank + og-protect-main exit 0; project verify PASS; audit installed PASS.
